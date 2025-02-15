@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+@theme {
+    --color-blue-custom: #007db5;
+    --color-yellow-custom: #ebcd68;
+    --font-anton: 'Anton', sans-serif;
+}
