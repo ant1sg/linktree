@@ -32,7 +32,7 @@ function App() {
               />
               <Button 
               icon="FaEnvelope" 
-              url="https://github.com/yourusername" 
+              url="mailto:unionjackpunx@gmail.com" 
               title="Contact" 
               />
  
