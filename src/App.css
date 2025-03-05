@@ -3,6 +3,15 @@
 
 @theme {
     --color-blue-custom: #007db5;
-    --color-yellow-custom: #ebcd68;
+    --color-yellow-custom: #d05b00;
     --font-anton: 'Anton', sans-serif;
+}
+
+.yt-lite {
+  background-size: contain!important;
+  background-position: center!important;
+  background-repeat: no-repeat!important;
+}
+.lty-playbtn {
+  background-color: var(--color-yellow-custom)!important;
 }
